@@ -1,0 +1,4 @@
+dealer_code,payout_type,base_amount,incentive_amount,deduction_amount,recovery_amount
+DLR001,Monthly Incentive,150000,30000,0,0
+DLR002,Quarterly Bonus,80000,15000,2000,0
+DLR003,Annual Payout,200000,50000,5000,1000

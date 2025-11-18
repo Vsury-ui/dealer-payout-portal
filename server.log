@@ -1,0 +1,8 @@
+
+> dealer-payout-portal@0.1.0 server
+> tsx watch server/index.ts
+
+[dotenv@17.2.3] injecting env (29) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+Server running on port 3001
+Environment: development
+Redis connected successfully

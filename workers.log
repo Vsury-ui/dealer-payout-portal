@@ -1,0 +1,5 @@
+
+> dealer-payout-portal@0.1.0 workers
+> tsx watch workers/dealer-bulk-upload.worker.ts workers/payout-data-upload.worker.ts
+
+Redis connected successfully

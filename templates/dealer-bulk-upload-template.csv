@@ -1,0 +1,4 @@
+dealer_code,dealer_name,gst_number,pan_number,state,email,mobile
+DLR001,ABC Electronics,27AAAAA0000A1Z5,AAAAA0000A,Maharashtra,abc@dealer.com,9876543210
+DLR002,XYZ Appliances,29BBBBB1111B2Z6,BBBBB1111B,Karnataka,xyz@dealer.com,9876543211
+DLR003,PQR Distributors,06CCCCC2222C3Z7,CCCCC2222C,Haryana,pqr@dealer.com,9876543212
